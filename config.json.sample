@@ -1,0 +1,13 @@
+{
+    "clienti":
+    [
+        {
+            "nome":"nome_cliente",
+            "indirizzo": "192.168.0.2"
+        }
+    ],
+    "opzioni": ["-a","-h","-p","-P","-d","-s"],
+    "vm_name": "nome_vm",
+    "file_fix": "percorso_file"
+
+}
